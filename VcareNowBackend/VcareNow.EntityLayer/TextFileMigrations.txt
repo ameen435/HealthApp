@@ -1,0 +1,7 @@
+﻿1) Solution to initial migrations
+https://entityframeworkcore.com/knowledge-base/38705694/add-migration-with-different-assembly
+2) Command run on VcareNow.EntityLayer assembly 
+ dotnet ef --startup-project C:/HealthApp/VcareNowBackend/VcareNowService/ migrations add Initial
+ where path can be made relative 
+
+ 3) after reviewing the changes per form command 'dotnet ef database update'

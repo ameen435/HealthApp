@@ -1,0 +1,9 @@
+C:\HealthApp\VcareNowBackend\VcareNow.EntityLayer\bin\Debug\netstandard2.0\VcareNow.EntityLayer.deps.json
+C:\HealthApp\VcareNowBackend\VcareNow.EntityLayer\bin\Debug\netstandard2.0\VcareNow.EntityLayer.dll
+C:\HealthApp\VcareNowBackend\VcareNow.EntityLayer\obj\Debug\netstandard2.0\VcareNow.EntityLayer.csproj.CoreCompileInputs.cache
+C:\HealthApp\VcareNowBackend\VcareNow.EntityLayer\obj\Debug\netstandard2.0\VcareNow.EntityLayer.AssemblyInfoInputs.cache
+C:\HealthApp\VcareNowBackend\VcareNow.EntityLayer\obj\Debug\netstandard2.0\VcareNow.EntityLayer.AssemblyInfo.cs
+C:\HealthApp\VcareNowBackend\VcareNow.EntityLayer\bin\Debug\netstandard2.0\VcareNow.EntityLayer.pdb
+C:\HealthApp\VcareNowBackend\VcareNow.EntityLayer\obj\Debug\netstandard2.0\VcareNow.EntityLayer.dll
+C:\HealthApp\VcareNowBackend\VcareNow.EntityLayer\obj\Debug\netstandard2.0\VcareNow.EntityLayer.pdb
+C:\HealthApp\VcareNowBackend\VcareNow.EntityLayer\obj\Debug\netstandard2.0\VcareNow.EntityLayer.csprojAssemblyReference.cache

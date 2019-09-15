@@ -1,0 +1,17 @@
+C:\HealthApp\VcareNowBackend\VcareNowService\bin\Debug\netcoreapp2.2\VcareNow.EntityLayer.dll
+C:\HealthApp\VcareNowBackend\VcareNowService\obj\Debug\netcoreapp2.2\VcareNowService.csprojAssemblyReference.cache
+C:\HealthApp\VcareNowBackend\VcareNowService\obj\Debug\netcoreapp2.2\VcareNowService.csproj.CoreCompileInputs.cache
+C:\HealthApp\VcareNowBackend\VcareNowService\obj\Debug\netcoreapp2.2\VcareNowService.RazorAssemblyInfo.cache
+C:\HealthApp\VcareNowBackend\VcareNowService\obj\Debug\netcoreapp2.2\VcareNowService.RazorAssemblyInfo.cs
+C:\HealthApp\VcareNowBackend\VcareNowService\obj\Debug\netcoreapp2.2\VcareNowService.AssemblyInfoInputs.cache
+C:\HealthApp\VcareNowBackend\VcareNowService\obj\Debug\netcoreapp2.2\VcareNowService.AssemblyInfo.cs
+C:\HealthApp\VcareNowBackend\VcareNowService\obj\Debug\netcoreapp2.2\VcareNowService.RazorTargetAssemblyInfo.cache
+C:\HealthApp\VcareNowBackend\VcareNowService\bin\Debug\netcoreapp2.2\VcareNowService.deps.json
+C:\HealthApp\VcareNowBackend\VcareNowService\bin\Debug\netcoreapp2.2\VcareNowService.runtimeconfig.json
+C:\HealthApp\VcareNowBackend\VcareNowService\bin\Debug\netcoreapp2.2\VcareNowService.runtimeconfig.dev.json
+C:\HealthApp\VcareNowBackend\VcareNowService\bin\Debug\netcoreapp2.2\VcareNowService.dll
+C:\HealthApp\VcareNowBackend\VcareNowService\bin\Debug\netcoreapp2.2\VcareNowService.pdb
+C:\HealthApp\VcareNowBackend\VcareNowService\bin\Debug\netcoreapp2.2\VcareNow.EntityLayer.pdb
+C:\HealthApp\VcareNowBackend\VcareNowService\obj\Debug\netcoreapp2.2\VcareNowService.csproj.CopyComplete
+C:\HealthApp\VcareNowBackend\VcareNowService\obj\Debug\netcoreapp2.2\VcareNowService.dll
+C:\HealthApp\VcareNowBackend\VcareNowService\obj\Debug\netcoreapp2.2\VcareNowService.pdb
