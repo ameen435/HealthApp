@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 import { HttpClientModule } from '@angular/common/http';
 
 import { AppComponent } from './app.component';
-import { PatientComponent } from '.c:/HealthApp/VcareNowClient/src/patient/patient.component';
+import { PatientComponent } from './patient/patient.component';
 
 @NgModule({
    declarations: [
